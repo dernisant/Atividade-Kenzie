@@ -1,0 +1,68 @@
+body{
+    background-color: black;
+}
+
+*{
+    box-sizing: border-box;
+    color: white;
+}
+.link{
+    text-decoration: none;
+}
+.menu{
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-align: center;
+    
+}
+
+.inicial{
+    background-color: blueviolet;
+    display: inline-block;
+    list-style: none;
+    padding: 6px;
+    margin: 10px;
+    border: solid 2px blueviolet;
+}
+
+
+.serviços{
+    background-color: blueviolet;
+    display: inline-block;
+    text-decoration: none;
+    list-style: none;
+    padding: 6px;
+    margin: 10px;
+    border: solid 2px blueviolet;
+}
+
+.cliente{
+    background-color: blueviolet;
+    display: inline-block;
+    text-decoration: none;
+    list-style: none;
+    padding: 6px;
+    margin: 10px;
+    border: solid 2px blueviolet;
+}
+
+.parceiros{
+    background-color: blueviolet;
+    display: inline-block;
+    text-decoration: none;
+    list-style: none;
+    padding: 6px;
+    margin: 10px;
+    border: solid 2px blueviolet;
+}
+
+.contato{
+    background-color: blueviolet;
+    display: inline-block;
+    text-decoration: none;
+    list-style: none;
+    padding: 6px;
+    margin: 10px;
+    border: solid 2px blueviolet;
+}
