@@ -1,0 +1,172 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
+body {
+    background-color: #cccdcf;
+    margin: 0;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+}
+
+.container {
+    display: flex;
+    max-width: 1300px;
+    margin: 0 auto ;
+    justify-content: center;
+   
+}
+
+.main-content {
+    width: 60%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-top: -130px;
+    padding-bottom: 200px;
+    padding-right: 20px;
+    
+}
+
+.content-main {
+    margin-top: 190px;
+    width: 268px;
+    height: 174px;
+    background-color:  black;
+    border-radius: 8px;
+}
+
+.content-main img {
+    width: 100%;
+    border-radius: 8px;
+}
+
+h3 {
+    font-family: 'Inter', sans-serif;
+    font-size: 16px;
+}
+
+.aside-posts{
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    border-radius: 4px;
+    padding-top: 40px;
+    gap: 20px;
+
+}
+
+
+
+.recent-posts {
+    display: flex;
+    width: 285px;
+    height: 59px;
+    border-radius: 4px;
+        
+}
+
+.pp {
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    
+}
+
+.popular-posts {
+    display: flex;
+    width: 285px;
+    height: 59px;
+    border-radius: 4px;
+    
+}
+
+h4 {
+    font-family: 'Inter', sans-serif;
+    color: #0D0D0E;
+}
+
+h4 a {
+    text-decoration: none;
+    color: #0D0D0E;
+}
+
+h4:hover {
+    text-decoration: underline;
+}
+
+.aside-posts h4 {
+    font-size: 12px;
+    
+}
+
+P {
+    font-family: 'Inter', sans-serif;
+    font-size: 12px;
+    color: #444343;
+}
+
+.theme {
+    margin-left: 5px;
+}
+
+.aside-posts img {
+    width: 71px;
+    height: 59px;
+    border-radius: 4px;
+    object-fit: cover;
+}
+
+.recent-posts h4  {
+    padding-left: 10px;
+}
+
+.popular-posts h4 {
+    padding-left: 10px;
+}
+
+.content-main small {
+    font-size: 10px;
+}
+
+footer {
+    background-color: #0D0D0E;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    height: 105px;
+    margin: 0;
+    justify-content: space-between;
+}
+
+h2 {
+    display: flex;
+    font-family: 'Inter', sans-serif;
+    margin-left: 135px;
+    color: white;
+}
+
+.socialmedia ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
+    list-style: none;
+    gap: 48px;
+    margin-right: 150px;
+    margin-top: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
